@@ -18,3 +18,9 @@
   - [syntax]()
 - `fetch`
   - [syntax]()
+- `rm`
+  - 將檔案從暫存區(index)或工作目錄(working tree)移除
+  - [syntax](./notes/git_rm.md)
+- `mv`
+  - 移動或重新命名檔案、資料夾、分支等等
+  - [syntax](./notes/git_mv.md)
