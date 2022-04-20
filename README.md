@@ -24,3 +24,6 @@
 - `mv`
   - 移動或重新命名檔案、資料夾、分支等等
   - [syntax](./notes/git_mv.md)
+- `stash`
+  - 當不想`add`、但想保留變更內容(`modified`)的情境
+  - [syntax](./notes/git_stash.md)
