@@ -1,4 +1,4 @@
-> contents
+> Syntax Contents
 
 - `log`
   - [syntax](./notes/git_add.md)
@@ -27,3 +27,10 @@
 - `stash`
   - 當不想`add`、但想保留變更內容(`modified`)的情境
   - [syntax](./notes/git_stash.md)
+
+---
+
+> Unexpected Events
+
+- [event-1_奇怪的gitHub分支圖](./Unexpected_events/event-1.md`)
+- [event-2_自動變更的package-lock](./Unexpected_events/event-2.md`)
