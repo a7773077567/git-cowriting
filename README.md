@@ -1,13 +1,17 @@
-> Syntax Contents
+> ## **_Syntax Contents_**
 
 - `log`
-  - [syntax](./notes/git_add.md)
+  - 顯示 commit 記錄, head 位置等
+  - [syntax](./notes/git_log.md)
 - `add`
   - 將檔案新增至暫存區(index)
   - [syntax](./notes/git_add.md)
 - `commit`
   - 將檔案移至儲存庫(repository)
   - [syntax](./notes/git_commit.md)
+- `chekout`
+  - 切換分支, 復原檔案
+  - [syntax]()
 - `rebase`
   - [syntax]()
 - `merge`
@@ -27,10 +31,14 @@
 - `stash`
   - 當不想`add`、但想保留變更內容(`modified`)的情境
   - [syntax](./notes/git_stash.md)
+- `blame`
+  - 找出每行程式碼的作者(兇手?)
+  - [syntax]()
+- `reflog`
 
----
+  -
+  - [syntax]()
+    > ## **_Unexpected Events_**
 
-> Unexpected Events
-
-- [event-1_奇怪的gitHub分支圖](./unexpected_events/event-1.md)
-- [event-2_自動變更的package-lock](./unexpected_events/event-2.md)
+- [event-1\_奇怪的 gitHub 分支圖](./unexpected_events/event-1.md)
+- [event-2\_自動變更的 package-lock](./unexpected_events/event-2.md)
