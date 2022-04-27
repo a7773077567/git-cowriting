@@ -47,7 +47,7 @@
 
 - [github- 多人 approve 的問題](./github/)
 - [github- 協作者無法直接 push](./github/)
-- [github- merge 前如何拉 PR 分支下來看](./github/)
+- [github- merge 前如何拉 PR 分支下來看](./github/reviewPR)
 - [github- branch 的保護程度](./github/)
 - [github- 同時多個 PR 流程問題](./github/)
 - [github- repo fetch 跟想的不一樣](./github/)
