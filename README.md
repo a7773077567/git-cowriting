@@ -1,4 +1,4 @@
-> ## **_Syntax Contents_**
+> ## **_Syntax contents_**
 
 - `log`
   - 顯示 commit 記錄, head 位置等
@@ -35,10 +35,20 @@
   - 找出每行程式碼的作者(兇手?)
   - [syntax]()
 - `reflog`
+  - 近期所有移動 HEAD 的記錄
+  - [syntax](./notes/git_reflog.md)
 
-  -
-  - [syntax]()
-    > ## **_Unexpected Events_**
+> ## **_Unexpected event_**
 
-- [event-1\_奇怪的 gitHub 分支圖](./unexpected_events/event-1.md)
-- [event-2\_自動變更的 package-lock](./unexpected_events/event-2.md)
+- [event1\_奇怪的 gitHub 支圖](./unexpected_events/event-1.md)
+- [event2- 自動變更的 package-lock](./unexpected_events/event-2.md)
+
+> ## **_GitHub events_**
+
+- [github- 多人 approve 的問題](./github/)
+- [github- 協作者無法直接 push](./github/)
+- [github- merge 前如何拉 PR 分支下來看](./github/)
+- [github- branch 的保護程度](./github/)
+- [github- 同時多個 PR 流程問題](./github/)
+- [github- repo fetch 跟想的不一樣](./github/)
+- [github- github issue template 刪不掉](./github/)
