@@ -37,6 +37,9 @@
 - `reflog`
   - 近期所有移動 HEAD 的記錄
   - [syntax](./notes/git_reflog.md)
+- `reset`
+  - [syntax](./notes/git_reset.md)
+  - 重置/前往指定 commit 的狀態
 
 > ## **_Unexpected event_**
 
