@@ -17,7 +17,8 @@
 - `merge`
   - [syntax]()
 - `pull`
-  - [syntax]()
+  - 將檔案從遠端抓取下來，將最新進度加到當前的分支上
+  - [syntax](./notes/git_pull.md)
 - `push`
   - [syntax]()
 - `fetch`
