@@ -20,7 +20,8 @@
   - 將檔案從遠端抓取下來，將最新進度加到當前的分支上
   - [syntax](./notes/git_pull.md)
 - `push`
-  - [syntax]()
+  - 將本地的檔案推到遠端或刪除遠端分支
+  - [syntax](./notes/git_push.md)
 - `fetch`
   - [syntax]()
 - `rm`
