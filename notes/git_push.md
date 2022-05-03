@@ -74,9 +74,9 @@ git push [-f | --force] [<repository> [<refspec>…​]]
   範例：
 
   - `git push -u origin develop`
-  - `git push origin develop:develop`
+  - `git push -u origin develop:develop`
 
-  - 上面兩個指令的意思是一樣的：「把本地的 master 分支推上去後，在 Server 上更新 master 分支的進度，或是如果不存在該分支的話，就建立一個 master 分支」
+  - 上面兩個指令的意思是一樣的：「把本地的 develop 分支推上去後，在 Server 上更新 develop 分支的進度，或是如果不存在該分支的話，就建立一個 develop 分支」
   - 如果推上去後想改叫另一個名字，只要改掉`:<dst>`的參照名稱，如：`git push origin develop:mybranch`
 
 - **想刪除遠端分支**
