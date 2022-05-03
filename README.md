@@ -13,7 +13,8 @@
   - 切換分支, 復原檔案
   - [syntax]()
 - `rebase`
-  - [syntax]()
+  - 重新定義分支的參考基準
+  - [syntax](./notes/git_rebase.md)
 - `merge`
   - [syntax]()
 - `pull`
