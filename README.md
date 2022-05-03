@@ -16,7 +16,8 @@
   - 重新定義分支的參考基準
   - [syntax](./notes/git_rebase.md)
 - `merge`
-  - [syntax]()
+  - 把分支給合併起來
+  - [syntax](./notes/git_merge.md)
 - `pull`
   - 將檔案從遠端抓取下來，將最新進度加到當前的分支上
   - [syntax](./notes/git_pull.md)
@@ -24,7 +25,8 @@
   - 將本地的檔案推到遠端或刪除遠端分支
   - [syntax](./notes/git_push.md)
 - `fetch`
-  - [syntax]()
+  - 拉下遠端資料
+  - [syntax](./notes/git_fetch.md)
 - `rm`
   - 將檔案從暫存區(index)或工作目錄(working tree)移除
   - [syntax](./notes/git_rm.md)
