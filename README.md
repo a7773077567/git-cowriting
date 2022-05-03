@@ -15,7 +15,8 @@
 - `rebase`
   - [syntax]()
 - `merge`
-  - [syntax]()
+  - 把分支給合併起來
+  - [syntax](./notes/git_merge.md)
 - `pull`
   - 將檔案從遠端抓取下來，將最新進度加到當前的分支上
   - [syntax](./notes/git_pull.md)
