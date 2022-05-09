@@ -15,13 +15,13 @@
   - 透過指令修改了任何參照(ref)的內容, 或則變更任何分支的**HEAD**參照內容
 - 這些記錄不會被同步到遠端
 
-> ## **_subcommands_**
+> ## **_Subcommands_**
 
 - `show`
   - default, 顯示 ref 變動的記錄
   - `git reflog show` 是 `git log -g --abbrev-commit --pretty=oneline` 的 alias
 
-> ## **_options_**
+> ## **_Options_**
 
 - `--all`
   - 顯示所有 refs 的 reflogs
