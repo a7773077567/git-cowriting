@@ -9,9 +9,9 @@
 - `commit`
   - 將檔案移至儲存庫(repository)
   - [syntax](./notes/git_commit.md)
-- `chekout`
+- `checkout`
   - 切換分支, 復原檔案
-  - [syntax]()
+  - [syntax](notes/git_checkout.md)
 - `rebase`
   - 重新定義分支的參考基準
   - [syntax](./notes/git_rebase.md)
